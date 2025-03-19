@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bayteq.client.domain.model.ClientTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-03-19T17:02:17.996Z" hostname="INFS-ECU-LT1138" time="0.007">
+  <properties/>
+  <testcase name="testGettersAndSetters()" classname="com.bayteq.client.domain.model.ClientTest" time="0.001"/>
+  <testcase name="testEqualsAndHashCode()" classname="com.bayteq.client.domain.model.ClientTest" time="0.001"/>
+  <testcase name="testNotEquals()" classname="com.bayteq.client.domain.model.ClientTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

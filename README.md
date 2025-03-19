@@ -20,7 +20,7 @@ Antes de ejecutar la aplicación, asegúrese de tener instalados los siguientes 
 
 1. **Clonar el repositorio**
    ```sh
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Aczambrano/client.git
    cd client
    ```
 

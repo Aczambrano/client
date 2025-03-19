@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bayteq.client.infrastructure.adapters.input.controller.ClientControllerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-03-19T17:02:18.005Z" hostname="INFS-ECU-LT1138" time="0.065">
+<testsuite name="com.bayteq.client.infrastructure.adapters.input.controller.ClientControllerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-03-19T17:41:37.493Z" hostname="INFS-ECU-LT1138" time="0.087">
   <properties/>
-  <testcase name="testGetAllClients()" classname="com.bayteq.client.infrastructure.adapters.input.controller.ClientControllerTest" time="0.053"/>
-  <testcase name="testGetClientById_Found()" classname="com.bayteq.client.infrastructure.adapters.input.controller.ClientControllerTest" time="0.004"/>
-  <testcase name="testUpdateClient()" classname="com.bayteq.client.infrastructure.adapters.input.controller.ClientControllerTest" time="0.002"/>
+  <testcase name="testGetAllClients()" classname="com.bayteq.client.infrastructure.adapters.input.controller.ClientControllerTest" time="0.072"/>
+  <testcase name="testGetClientById_Found()" classname="com.bayteq.client.infrastructure.adapters.input.controller.ClientControllerTest" time="0.005"/>
+  <testcase name="testUpdateClient()" classname="com.bayteq.client.infrastructure.adapters.input.controller.ClientControllerTest" time="0.003"/>
   <testcase name="testGetClientById_NotFound()" classname="com.bayteq.client.infrastructure.adapters.input.controller.ClientControllerTest" time="0.002"/>
-  <testcase name="testCreateClient()" classname="com.bayteq.client.infrastructure.adapters.input.controller.ClientControllerTest" time="0.003"/>
+  <testcase name="testCreateClient()" classname="com.bayteq.client.infrastructure.adapters.input.controller.ClientControllerTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

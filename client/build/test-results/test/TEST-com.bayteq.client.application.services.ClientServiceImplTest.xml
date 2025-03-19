@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bayteq.client.application.services.ClientServiceImplTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-03-19T17:02:17.852Z" hostname="INFS-ECU-LT1138" time="0.143">
+<testsuite name="com.bayteq.client.application.services.ClientServiceImplTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-03-19T17:41:37.212Z" hostname="INFS-ECU-LT1138" time="0.272">
   <properties/>
-  <testcase name="testCreateClient_EmailAlreadyExists()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.112"/>
-  <testcase name="testUpdateClient_Success()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.007"/>
-  <testcase name="testCreateClient_Success()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.002"/>
-  <testcase name="testUpdateClient_DocumentAlreadyExists()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.003"/>
-  <testcase name="testGetAllClients()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.002"/>
-  <testcase name="testGetClientById_Found()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.002"/>
+  <testcase name="testCreateClient_EmailAlreadyExists()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.225"/>
+  <testcase name="testUpdateClient_Success()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.013"/>
+  <testcase name="testCreateClient_Success()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.003"/>
+  <testcase name="testUpdateClient_DocumentAlreadyExists()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.005"/>
+  <testcase name="testGetAllClients()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.005"/>
+  <testcase name="testGetClientById_Found()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.004"/>
   <testcase name="testUpdateClient_EmailAlreadyExists()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.004"/>
-  <testcase name="testCreateClient_DocumentAlreadyExists()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.002"/>
-  <testcase name="testUpdateClient_NotFound()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.002"/>
+  <testcase name="testCreateClient_DocumentAlreadyExists()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.004"/>
+  <testcase name="testUpdateClient_NotFound()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.003"/>
   <testcase name="testGetClientById_NotFound()" classname="com.bayteq.client.application.services.ClientServiceImplTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

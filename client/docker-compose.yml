@@ -12,7 +12,10 @@ services:
       - "3306:3306"
     networks:
       - microservice_network
-
+    healthcheck:
+          test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+          retries: 10
+          timeout: 15s
   app:
     build: .
     container_name: my_microservice

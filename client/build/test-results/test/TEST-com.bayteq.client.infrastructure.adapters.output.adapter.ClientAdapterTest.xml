@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-03-19T17:41:37.582Z" hostname="INFS-ECU-LT1138" time="0.172">
+<testsuite name="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-03-19T18:06:28.704Z" hostname="DESKTOP-KS0PHCL" time="0.488">
   <properties/>
-  <testcase name="testFindAll()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.15"/>
-  <testcase name="testSave()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.003"/>
-  <testcase name="testExistsById()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.002"/>
-  <testcase name="testFindByDocumentNumber()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.002"/>
-  <testcase name="testFindById()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.003"/>
-  <testcase name="testFindByEmail()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.002"/>
-  <testcase name="testExistsByEmail()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.002"/>
-  <testcase name="testExistsByDocumentNumber()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.003"/>
+  <testcase name="testFindAll()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.423"/>
+  <testcase name="testSave()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.014"/>
+  <testcase name="testExistsById()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.006"/>
+  <testcase name="testFindByDocumentNumber()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.01"/>
+  <testcase name="testFindById()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.006"/>
+  <testcase name="testFindByEmail()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.007"/>
+  <testcase name="testExistsByEmail()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.01"/>
+  <testcase name="testExistsByDocumentNumber()" classname="com.bayteq.client.infrastructure.adapters.output.adapter.ClientAdapterTest" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
